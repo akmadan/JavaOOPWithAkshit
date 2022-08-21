@@ -1,3 +1,6 @@
+
+// COMPILE TIME
+
 // public class File3 {
 
 //     public static class Area{ 
@@ -25,7 +28,7 @@
 // }
 
 
-
+// RUN TIME
 
 public class File3{ 
 

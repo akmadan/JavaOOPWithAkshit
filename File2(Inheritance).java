@@ -19,7 +19,7 @@ public class File2 {
         }
     }
 
-    //Hie.
+    //Hierarchial
     public static class Mobile extends Electronics{
         
         int height;
@@ -29,7 +29,7 @@ public class File2 {
         }
     }
 
-    //Multi L.
+    //Multi Level
     public static class LCD extends TV{
         
         String hdLevel;
